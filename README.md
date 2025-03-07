@@ -47,11 +47,6 @@ yarn dev
 
 The calculator divides your CPU's PassMark score by the required PassMark score for each video profile to determine how many simultaneous transcodes your Plex server can handle. Note that these estimates are per video category and your server cannot simultaneously handle the maximum number of transcodes across all categories.
 
-## Deployment
-
-This app can be easily deployed to Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/your-username/plex-transcode-estimator)
 
 ## License
 

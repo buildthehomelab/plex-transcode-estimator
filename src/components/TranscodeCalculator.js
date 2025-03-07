@@ -62,17 +62,13 @@ const TranscodeCalculator = () => {
         <h1 className="text-3xl font-bold text-center text-white mb-8">
           Plex Transcode Estimator
         </h1>
-        <div className="max-w-3xl mx-auto">
-        <h1 className="text-3xl font-bold text-center text-white mb-4">
-          Plex Transcode Estimator
-        </h1>
-        <div className="mb-6 p-4 bg-red-900/30 border border-red-800 rounded-lg text-center">
-          <p className="text-red-200">
-            <strong>Note:</strong> These estimates are for CPU software transcoding only, when QuickSync or other hardware transcoding is not enabled.
-          </p>
-        </div>
         
         <div className={cardStyle}>
+          <div className="mb-4 p-3 bg-red-900/30 border border-red-700 rounded-lg">
+            <p className="text-red-200 text-sm">
+              <strong>Important:</strong> These estimates are for CPU software transcoding only, when QuickSync or other hardware transcoding is not enabled.
+            </p>
+          </div>
           
           <div className="mb-4">
             <label className={labelStyle}>

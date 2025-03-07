@@ -24,7 +24,7 @@ const Footer = () => {
                 <a href="https://support.plex.tv/articles/201774043-what-kind-of-cpu-do-i-need-for-my-server/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Plex CPU Requirements</a>
               </li>
               <li>
-                <a href="https://www.cpubenchmark.net/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">PassMark CPU Benchmarks</a>
+                <a href="https://www.cpubenchmark.net/cpu_list.php" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">PassMark CPU Benchmarks</a>
               </li>
               <li>
                 <a href="https://forums.plex.tv/c/plex-media-server/hardware/7" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Plex Hardware Forum</a>

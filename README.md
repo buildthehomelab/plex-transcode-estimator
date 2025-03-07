@@ -23,7 +23,7 @@ A simple web app to estimate how many simultaneous transcodes your Plex Media Se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/plex-transcode-estimator.git
+git clone https://github.com/buildthehomelab/plex-transcode-estimator.git
 cd plex-transcode-estimator
 ```
 
